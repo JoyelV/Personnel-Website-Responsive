@@ -1,6 +1,6 @@
 # Joyel Varghese Portfolio
 
-This project is a personal portfolio website for Joyel Varghese, showcasing his background, skills, projects, and contact information. The website is built using HTML, CSS, and JavaScript, with a responsive design optimized for mobile, tablet, and desktop devices. It features a clean, modern layout with interactive elements such as a tabbed about section, a mobile-friendly sidebar menu, and a contact form integrated with Google Sheets.
+This project is my personal portfolio website project, showcasing my background, skills, projects, and contact information. The website is built using HTML, CSS, and JavaScript, with a responsive design optimized for mobile, tablet, and desktop devices. It features a clean, modern layout with interactive elements such as a tabbed about section, a mobile-friendly sidebar menu, and a contact form integrated with Google Sheets.
 
 ## Table of Contents
 - [Features](#features)
